@@ -187,7 +187,7 @@ Where:
 
 ## File Structure
 ```
-e:\kepston_bismillah_kebut\
+e:\motor-pid-fpga\
 ├── motor_gui.py                    # Python GUI application
 ├── Nexys-A7-50T-Master.xdc        # FPGA constraints file
 ├── README.md                       # This documentation
@@ -218,7 +218,7 @@ e:\kepston_bismillah_kebut\
 
 2. **Python GUI**:
    ```bash
-   cd e:\kepston_bismillah_kebut
+   cd e:\motor-pid-fpga
    python motor_gui.py
    ```
 
